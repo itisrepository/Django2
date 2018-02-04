@@ -1,5 +1,8 @@
 abc
 def
+<<<<<<< HEAD
 
 	hello world!
 \n\thello world!
+=======
+>>>>>>> cdc8dfddf7a5e11a51fa628b00fb756785f0449b
